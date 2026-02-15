@@ -157,7 +157,4 @@ The system:
 
 ---
 
-## 7️⃣ Hybrid Agent Architecture
-
-### Phase 1 – Linear Planning
 
